@@ -1,0 +1,8 @@
+Switch ID,Port Number,Received Packets,Received Bytes,Sent Bytes,Sent Packets,Port alive Duration (S),Delta Received Packets,Delta Received Bytes,Delta Sent Bytes,Delta Sent Packets,Delta Port alive Duration (S),Connection Point,Total Load/Rate,Total Load/Latest,Unknown Load/Rate,Unknown Load/Latest,Latest bytes counter,Active Flow Entries,Packets Looked Up,Packets Matched
+of:0000000000000004,Port#:1,240,16586,12622603,467,126,0,0,280,2,5,1,0,0,0,0,0,4,819,757
+of:0000000000000004,Port#:2,158,20530,35464,376,171,4,556,3407,43,5,2,0,0,0,0,0,5,1018,918
+of:000000000000000b,Port#:1,423,29020,19138042,1562,1451,0,0,560,4,5,1,0,0,0,0,0,4,4524,4411
+of:000000000000000c,Port#:1,468,32234,42399682,408529,1097,0,0,560,4,5,1,0,0,0,0,0,4,645351,645228
+of:0000000000000006,Port#:2,187,6304507,27172,256,166,62,2232607,3278,41,5,1,0,0,0,0,0,6,1023,930
+of:000000000000000c,Port#:4,7392,126426604,94877805,5745,2427,2,278,560,4,5,4,-728,0,-728,0,-728,6,17819,17687
+of:000000000000000c,Port#:2,687,12648925,39629,297,396,2,278,278,2,5,1,0,0,0,0,0,4,2263,2145
